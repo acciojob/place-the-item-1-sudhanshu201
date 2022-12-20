@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
     display: flex;
     background-color: lightcoral;
     height: 300px;
@@ -14,7 +14,7 @@
     flex-wrap: wrap;
 }
 
-.container .item{
+.holder .item{
     margin-top: 50px;
     height: 200px;
     width: 30vw;
